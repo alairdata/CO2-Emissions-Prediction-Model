@@ -28,6 +28,8 @@
 
 ##### In summary, multiple regression models were used in this project to predict CO2 emissions in Canada based on the cleaned and encoded dataset. The models used include Linear Regression, Ridge Regression, Lasso Regression and ElasticNet Regression. The results of each model were evaluated using metrics such as mean squared error and R-squared, and the best performing model was selected based on these results.
 
+### It is worth noting that the **GradientBoosting model (gdabpipe)** emerged as the best model **(0.995 and 17.36)** in terms of both r-squared score and mean squared error respectively
+
 ### Requirements
 ##### The code was written in python 3.8 and requires the following libraries:
 

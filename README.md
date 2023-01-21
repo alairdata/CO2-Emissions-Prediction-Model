@@ -31,11 +31,11 @@
 ### Requirements
 ##### The code was written in python 3.8 and requires the following libraries:
 
-###### pandas
-###### numpy
-###### seaborn
-###### matplotlib
-###### missingno
+###### - pandas
+###### - numpy
+###### - seaborn
+###### - matplotlib
+###### - missingno
 
 ### Usage
 ###### - Download the repository

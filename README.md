@@ -1,4 +1,5 @@
-# CO2-Emissions-Prediction-Model
+
+# CO2-Emissions-Prediction-Model 
 
 # Overview
 This is a supervised machine learning project where Regression is used to predict continuous values for CO2 emissions in Canada. The goal of this project was to use data analysis and visualization to understand patterns in the data, and then use those insights to train a model that can accurately predict CO2 emissions.
@@ -43,5 +44,7 @@ The code was written in python 3.8 and requires the following libraries:
  - Install the required libraries
  - Run the code
 
-# Additional note
+# Additional notes
 This is a simple example of how to use machine learning to predict continuous values. In a real-world scenario, there would be more data cleaning, feature engineering and model selection involved to improve the performance of the model.
+
+
